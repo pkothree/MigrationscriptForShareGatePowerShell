@@ -1,0 +1,3 @@
+List;http://source/sites/sourcesite;http://destination/sites/destinationsite;SourceListName;DestinationListName;;;TestSiteCollectionTitle
+Folder;http://source/sites/sourcesite;http://destination/sites/destinationsite;SourceListName;DestinationListName;SourceFolder;DestinationFolder;TestSiteCollectionTitle
+UNC;\\folder\folder1\FilesToImport;http://destination/sites/destinationsite;;DestinationListName;;;TestSiteCollectionTitle
